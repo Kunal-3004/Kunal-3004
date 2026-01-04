@@ -1,6 +1,7 @@
 <div align="center">
   <h3>Hey, I am Kunal Bansal</h3>
 </div>
+<br/><br/>
 # 💫 About Me:
 🔭 I'm currently focused on Data Structures and Algorithms.<br>🌱 I'm continuously learning and deepening my knowledge in Flutter.<br>👯 I'm eager to collaborate on more Application Development projects.<br>👨‍💻 Explore my work: [My Github Profile](https://github.com/Kunal-3004)<br>📫 Connect with me: kunalbansal2030@gmail.com
 
