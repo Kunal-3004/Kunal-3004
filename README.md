@@ -1,8 +1,15 @@
 <div align="center">
-  <h3>Hey, I am Kunal Bansal</h3>
-  <br/><br/>
-  <h3>A passinate Software Developer from India.</h3>
+  <h1>Hey, I am Kunal Bansal</h1>
+  <hr />
+  <h3>A passionate Software Developer from India.</h3>
+
+  <a href="YOUR_GOOGLE_DRIVE_LINK_HERE" target="_blank">
+    <img src="https://img.shields.io/badge/RESUME-DOWNLOAD%20NOW-EF6C00?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=555555" alt="Resume">
+  </a>
 </div>
+
+<br />
+<hr />
 
 # 💫 About Me:
 🔭 I'm currently focused on Data Structures and Algorithms.<br>🌱 I'm continuously learning and deepening my knowledge in Flutter.<br>👯 I'm eager to collaborate on more Application Development projects.<br>👨‍💻 Explore my work: [My Github Profile](https://github.com/Kunal-3004)<br>📫 Connect with me: kunalbansal2030@gmail.com
@@ -28,7 +35,6 @@
 <div align="center">
   <h3>My Contribution Graph:</h3>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kunal-3004&theme=react-dark" />
-
   <br/><br/>
 
   <h3>General Statistics:</h3>
