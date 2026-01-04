@@ -44,7 +44,7 @@
 ### 🛠️ Tools & Platforms:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,canva,premiere,git,github,postman,render" />
+    <img src="https://skillicons.dev/icons?i=figma,premiere,git,github,postman,render" />
   </a>
 </p>
 # 📊 GitHub Stats:
