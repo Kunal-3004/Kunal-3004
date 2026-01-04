@@ -49,7 +49,7 @@
 </p>
 
 <hr>
-# 📊 GitHub Stats:
+### 📊 GitHub Stats:
 <div align="center">
   <h3>My Contribution Graph:</h3>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kunal-3004&theme=react-dark" />
