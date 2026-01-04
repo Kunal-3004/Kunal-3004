@@ -3,7 +3,7 @@
   <hr />
   <h3>A passionate Software Developer from India.</h3>
 
-  <a href="[YOUR_GOOGLE_DRIVE_LINK_HERE](https://drive.google.com/file/d/1emtoVlSgws3QtnMkhA-S1RE7cxgg_6Qm/view?usp=drive_link)" target="_blank">
+  <a href="(https://drive.google.com/file/d/1emtoVlSgws3QtnMkhA-S1RE7cxgg_6Qm/view?usp=drive_link)" target="_blank">
     <img src="https://img.shields.io/badge/RESUME-DOWNLOAD%20NOW-EF6C00?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=555555" alt="Resume">
   </a>
 </div>
