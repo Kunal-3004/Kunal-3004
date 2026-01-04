@@ -47,6 +47,8 @@
     <img src="https://skillicons.dev/icons?i=figma,premiere,git,github,postman,render" />
   </a>
 </p>
+
+<hr>
 # 📊 GitHub Stats:
 <div align="center">
   <h3>My Contribution Graph:</h3>
